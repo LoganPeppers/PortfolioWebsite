@@ -92,7 +92,13 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="CSS\style.css" />
+    <Content Include="Minesweeper.js" />
+    <Content Include="StatsAndItems.html" />
+    <Content Include="images\Space Wallpapers 10.jpg" />
+    <Content Include="images\space.jfif" />
+    <Content Include="script.js" />
+    <Content Include="StatsAndInventory.py" />
+    <Content Include="style.css" />
     <Content Include="GridMovement.html" />
     <Content Include="images\mypicture.jpg" />
     <Content Include="index.html" />
@@ -133,6 +139,7 @@
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
     </None>
+    <None Include="My Project\PublishProfiles\LoganPeppersPortfolio - Web Deploy.pubxml" />
     <None Include="My Project\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <CustomToolNamespace>My</CustomToolNamespace>
