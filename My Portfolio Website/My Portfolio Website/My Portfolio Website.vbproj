@@ -92,7 +92,6 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Minesweeper.js" />
     <Content Include="StatsAndItems.html" />
     <Content Include="images\Space Wallpapers 10.jpg" />
     <Content Include="images\space.jfif" />
@@ -139,6 +138,8 @@
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
     </None>
+    <None Include="My Project\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="My Project\PublishProfiles\FTPProfile.pubxml" />
     <None Include="My Project\PublishProfiles\LoganPeppersPortfolio - Web Deploy.pubxml" />
     <None Include="My Project\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
